@@ -22,7 +22,6 @@ description: hello
 navbar-links:
   Research: "research"
   Publications: "publications"
-  - Google Scholar: "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en"
   CV: "CV"
   About Me: "aboutme"
 
