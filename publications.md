@@ -1,16 +1,12 @@
 ---
 layout: page
 title: Publications
-subtitle: Why you'd want to go on a date with me
+subtitle: Make some contributions to the world
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- Published/Accepted
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Huang, J., Zhang, X., Tong, J., Du, J., Duan, R., Yang, L., Moore, J.H., Tao, C. and Chen, Y., 2019. Comparing drug safety of hepatitis C therapies using post-market data. BMC medical informatics and decision making, 19(4), p.147.
 
-What else do you need?
+- Under revision/Under review/In preparation
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
