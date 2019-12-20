@@ -20,9 +20,11 @@ description: hello
 
 # List of links in the navigation bar
 navbar-links:
-  Homepage: "Homepage"
-  Research: "Research"
+  Research: "Research/Projects"
   Publications: "Publications"
+    - Google scholar: "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en"
+    - Papers:
+    - Poster/Slides:
   CV: "CV"
   About Me: "aboutme"
 
