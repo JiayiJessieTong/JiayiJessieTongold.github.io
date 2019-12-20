@@ -24,9 +24,10 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   CV: "CV"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Links:
+    - Goolgle Scholar: "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en/"
+    - PennCIL lab page: "https://penncil.med.upenn.edu/people/jiayi-tong/"
+    - UPenn page: "https://www.med.upenn.edu/ggeb/current-students/#group=students&program=2&degree=0&year=0&advisor=0/" 
 
 
     
