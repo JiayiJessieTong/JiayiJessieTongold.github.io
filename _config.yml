@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: J.T
+title: J.T.
 
 # Short description of your site
 description: hello
@@ -20,8 +20,9 @@ description: hello
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "Research/Projects"
+  Research: "research"
   Publications: "publications"
+  - Google Scholar: "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en"
   CV: "CV"
   About Me: "aboutme"
 
