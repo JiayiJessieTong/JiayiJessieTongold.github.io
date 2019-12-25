@@ -3,11 +3,18 @@ layout: page
 title: Research 
 ---
 
+- Measurement Error and Estimation Augmentation
+
+![title](/img/jamia2019.png)
+
 - Data privacy
 
 
-![title](/img/JT_photo.jpeg){:class="img-responsive"}
+![title](/img/psb2020.png)
 
 
 - Online Meta-analysis Platform
-- Measurement Error and Estimation Augmentation
+
+![title](/img/xmeta.png)
+
+
