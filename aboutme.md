@@ -11,7 +11,7 @@ Education
 -----------
 
 
-- **Ph.D. in Biostatistics, 2024 (expected), University of Pennsylvania**  
+- **Ph.D. student in Biostatistics, University of Pennsylvania, Sep 2019 ~ present**  
   Department of Biostatistics, Epidemiology and Informatics  
   Perelman School of Medicine at the University of Pennsylvania  
 
