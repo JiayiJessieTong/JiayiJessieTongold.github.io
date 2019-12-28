@@ -11,14 +11,12 @@ Education
 -----------
 
 
-- **Ph.D. in Biostatistics, 2024 (expected), University of Pennsylvania**
-
+- **Ph.D. in Biostatistics, 2024 (expected), University of Pennsylvania**  
   Department of Biostatistics, Epidemiology and Informatics  
   Perelman School of Medicine at the University of Pennsylvania  
 
 
-- **B.S. with High Honors in Applied Mathematics, June 2017**
-
+- **B.S. with High Honors in Applied Mathematics, June 2017**  
   Cum Laude  
   University of California, San Diego  
   Thesis title: Strongly Correlated Band Random Matrices  
