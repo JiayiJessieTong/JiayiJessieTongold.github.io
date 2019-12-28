@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-My name is Jiayi (Jessie) Tong. I am a first year Ph.D. student in Biostatistics program at the Perelman School of Medicine, University of Pennsylvania.
+My name is Jiayi (Jessie) Tong. I am a first year Ph.D. student in the Biostatistics program at the Perelman School of Medicine, the University of Pennsylvania.
 
 
 Education  
