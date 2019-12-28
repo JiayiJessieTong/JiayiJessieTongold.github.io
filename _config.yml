@@ -91,7 +91,7 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
+# share-links-active:
 #  twitter: true
 #  facebook: true
 #  linkedin: true
