@@ -30,11 +30,14 @@ Awards/Honors
 
 
 - **Department Honors in Mathematics (Applied) with High Distinction (2017)**   
-  https://math.ucsd.edu/_files/undergraduate/honors-program/honors-program-presentations/ 2016-2017/Jiayi_Tong_Honors_Thesis.pdf
+  https://math.ucsd.edu/_files/undergraduate/honors-program/honors-program-presentations/ 2016-2017/Jiayi_Tong_Honors_Thesis.pdf  
+  University of California, San Diego
 
-- **Honor society: Phi Beta Kappa (2017) University of California, San Diego**  
+- **Honor society: Phi Beta Kappa (2017)**  
+  University of California, San Diego
 
-- **Provost’s Honors (2015, 2016, 2017) University of California, San Diego**  
+- **Provost’s Honors (2015, 2016, 2017)**  
+  University of California, San Diego
 
 
 
