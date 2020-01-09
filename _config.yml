@@ -3,6 +3,7 @@
 # Name of website
 title: J.T. Homepage
 
+
 # Short description of your site
 description: Welcome to J.T.'s website
 
@@ -17,6 +18,8 @@ description: Welcome to J.T.'s website
 #baseurl: ""
 
 # --- Navigation bar options --- #
+target-blank:
+    css_class: ext-link
 
 # List of links in the navigation bar
 navbar-links:
