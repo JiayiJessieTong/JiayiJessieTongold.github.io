@@ -21,7 +21,7 @@ Education
   University of California, San Diego  
   Thesis title: Strongly Correlated Band Random Matrices  
   Thesis paper: [Random Matrices with Blocks of Intermediate Scale: Strongly Correlated Band Random Matrices](  https://math.ucsd.edu/_files/undergraduate/honors-program/honors-program-presentations/2016-2017/Jiayi_Tong_Honors_Thesis.pdf)  
-  Advisor: Dr. Todd Kemp  
+  Advisor: [Dr. Todd Kemp](https://www.math.ucsd.edu/~tkemp/)  
 
 
 
