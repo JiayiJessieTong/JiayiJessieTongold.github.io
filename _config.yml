@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Publications: "publications"
-  CV: "CV"
+  CV: "https://drive.google.com/open?id=1OLW3QjOnKMogK4I3WiWYIEGQZykypbP6"
   Links:
     - Goolgle Scholar: "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en/"
     - PennCIL lab page: "https://penncil.med.upenn.edu/people/jiayi-tong/"
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/JT_photo.jpeg"
+avatar: "/img/JT_sq.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
