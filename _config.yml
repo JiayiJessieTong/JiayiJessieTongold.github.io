@@ -216,8 +216,6 @@ prose:
     - /js
   metadata:
     _posts:
-    future: true
-    published: true
       - name: "layout"
         field:
           element: "hidden"
