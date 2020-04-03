@@ -14,6 +14,7 @@ Education
 - **Ph.D. student in Biostatistics, University of Pennsylvania, Sep 2019 ~ present**  
   Department of Biostatistics, Epidemiology and Informatics  
   Perelman School of Medicine at the University of Pennsylvania  
+  Advisor: [Dr. Yong Chen](https://penncil.med.upenn.edu/about-pi/)  
 
 
 - **B.S. with High Honors in Applied Mathematics, June 2017**  
