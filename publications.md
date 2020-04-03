@@ -15,15 +15,17 @@ Published/Accepted
 
 4. Li, R., **Tong, J.**, Duan, R., Chen, Y. and Moore, J.H., 2019. Evaluation of phenotyping errors on polygenic risk score predictions. BioRxiv, p.724534.
 
-5. Chiasakul, T., Jesus, E., **Tong, J.**, Chen, Y., Crowther, M., Garcia, D., Chai-Adisaksopha, C., Messe, S. and Cuker, A. (2019) Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. Journal of the American Heart As- sociation, 8(19), e012877.
+5. Liang, J., Liu, J., Fan, R., Chen, Z., Chen, X., **Tong, J.**,Chen, Y., Peng, F. and Jiang, Y. (2019). Plasma Homocysteine Level Is Associated with the Expanded Disability Status Scale in Neuromyelitis Optica Spectrum Disorder. Neuroimmunomodulation, 26(5), 258-264.
 
-6. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Tao, C. and Chen, Y., 2019. Comparing drug safety of hepatitis C therapies using post-market data. BMC medical informatics and decision making, 19(4), p.147.
+6. Chiasakul, T., Jesus, E., **Tong, J.**, Chen, Y., Crowther, M., Garcia, D., Chai-Adisaksopha, C., Messe, S. and Cuker, A. (2019) Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. Journal of the American Heart As- sociation, 8(19), e012877.
 
-7. Luo, C., Zhang, X., Yang, L., Du, J., **Tong, J.**, Huang, J., Tao, C. and Chen, Y., (2019), August. Rare adverse effects analysis of new generation hepatitis C medications using EMR and FAERS data.Pharmacoepidemiology and Drug Safety (Vol. 28, pp. 580-581). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.
+7. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Tao, C. and Chen, Y., 2019. Comparing drug safety of hepatitis C therapies using post-market data. BMC medical informatics and decision making, 19(4), p.147.
 
-8. Liang, J., Liu, J., Fan, R., Chen, Z., Chen, X., **Tong, J.**, Chen, Y., Peng, F. and Jiang, Y., (2019). Plasma Homocysteine Level Is Associated with the Expanded Disability Status Scale in Neuromyelitis Optica Spectrum Disorder. Neuroimmunomodulation, 26(5), pp.258- 264.
+8. Luo, C., Zhang, X., Yang, L., Du, J., **Tong, J.**, Huang, J., Tao, C. and Chen, Y., (2019), August. Rare adverse effects analysis of new generation hepatitis C medications using EMR and FAERS data.Pharmacoepidemiology and Drug Safety (Vol. 28, pp. 580-581). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.
 
-9. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Chen, Y. and Tao, C. (2018). Comparing adverse effects of Hepatitis C drugs using FAERS data. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1653-1656). IEEE.
+9. Liang, J., Liu, J., Fan, R., Chen, Z., Chen, X., **Tong, J.**, Chen, Y., Peng, F. and Jiang, Y., (2019). Plasma Homocysteine Level Is Associated with the Expanded Disability Status Scale in Neuromyelitis Optica Spectrum Disorder. Neuroimmunomodulation, 26(5), pp.258- 264.
+
+10. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Chen, Y. and Tao, C. (2018). Comparing adverse effects of Hepatitis C drugs using FAERS data. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1653-1656). IEEE.
 
 Under revision/Under review/In preparation
 -----------
@@ -32,6 +34,7 @@ Under revision/Under review/In preparation
 
 Oral/Poster Presentations
 -----------
+1. **Tong, J.**, Huang, J., Chubak, J., Wang, X., Moore, J. H., Hubbard, A. R., and Chen, Y. (2020). An Augmented Estimation Procedure for EHR-based Association Studies. Eastern North American Region (ENAR), Philadelphia April 2020
 
 1. **Tong, J.**, Duan, R., Li, R., Scheuemie, M. J., Moore, J. H., and Chen, Y. (2020). Robust-ODAL: Learning from heterogeneous health systems without sharing patient-level data. Pacific Symposium on Biocomputing (PSB), Hawaii Jan 2020
 
