@@ -13,13 +13,15 @@ Published/Accepted
 
 3. **Tong, J.**, Huang, J., Chubak, J., Wang, X., Hubbard, R., and Chen, Y. (2019) An Augmented Estimation Procedure for EHR-based Association Studies Accounting for Differential Misclassification, Journal of the American Medical Informatics Association.
 
-4. Li, R., **Tong, J.**, Duan, R., Chen, Y. and Moore, J.H., 2019. Evaluation of phenotyping errors on polygenic risk score predictions. BioRxiv, p.724534.
+4. Hubbard, R. A., **Tong, J.**, Duan, R., & Chen, Y. (2020). Reducing Bias Due to Outcome Misclassification for Epidemiologic Studies Using EHR-derived Probabilistic Phenotypes. Epidemiology (Cambridge, Mass.).
+
+4. Li, R., **Tong, J.**, Duan, R., Chen, Y. and Moore, J.H., (2019). Evaluation of phenotyping errors on polygenic risk score predictions. BioRxiv, p.724534.
 
 5. Liang, J., Liu, J., Fan, R., Chen, Z., Chen, X., **Tong, J.**,Chen, Y., Peng, F. and Jiang, Y. (2019). Plasma Homocysteine Level Is Associated with the Expanded Disability Status Scale in Neuromyelitis Optica Spectrum Disorder. Neuroimmunomodulation, 26(5), 258-264.
 
 6. Chiasakul, T., Jesus, E., **Tong, J.**, Chen, Y., Crowther, M., Garcia, D., Chai-Adisaksopha, C., Messe, S. and Cuker, A. (2019) Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. Journal of the American Heart As- sociation, 8(19), e012877.
 
-7. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Tao, C. and Chen, Y., 2019. Comparing drug safety of hepatitis C therapies using post-market data. BMC medical informatics and decision making, 19(4), p.147.
+7. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Tao, C. and Chen, Y., (2019). Comparing drug safety of hepatitis C therapies using post-market data. BMC medical informatics and decision making, 19(4), p.147.
 
 8. Luo, C., Zhang, X., Yang, L., Du, J., **Tong, J.**, Huang, J., Tao, C. and Chen, Y., (2019), August. Rare adverse effects analysis of new generation hepatitis C medications using EMR and FAERS data.Pharmacoepidemiology and Drug Safety (Vol. 28, pp. 580-581). 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY.
 
