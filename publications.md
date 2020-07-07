@@ -11,9 +11,9 @@ Published/Accepted
 
 2. **Tong, J.**, Duan, R., Li, R., Scheuemie, M. J., Moore, J. H., and Chen, Y. (2020). Robust-ODAL: Learning from heterogeneous health systems without sharing patient-level data. In Pacific Symposium on Biocomputing (Vol. 25, pp. 695-706).
 
-3. **Tong, J.**, Huang, J., Du, J., Cai, Y., Tao, C. and Chen, Y. (2018) The Use of Likelihood Ratio Test to Identify Rare Adverse Events with Year-varying Reporting Rates for FLU4 Vaccine in VAERS, AMIA Annual Symposium Proceedings. American Medical Informatics Association.
+3. **Tong, J.**, Huang, J., Chubak, J., Wang, X., Hubbard, R., and Chen, Y. (2019) An Augmented Estimation Procedure for EHR-based Association Studies Accounting for Differential Misclassification, Journal of the American Medical Informatics Association.
 
-4. **Tong, J.**, Huang, J., Chubak, J., Wang, X., Hubbard, R., and Chen, Y. (2019) An Augmented Estimation Procedure for EHR-based Association Studies Accounting for Differential Misclassification, Journal of the American Medical Informatics Association.
+4. **Tong, J.**, Huang, J., Du, J., Cai, Y., Tao, C. and Chen, Y. (2018) The Use of Likelihood Ratio Test to Identify Rare Adverse Events with Year-varying Reporting Rates for FLU4 Vaccine in VAERS, AMIA Annual Symposium Proceedings. American Medical Informatics Association.
 
 5. Duan, R., Chen Z., **Tong, J.**, Luo, C., Lyu, T., Tao, C., Maraganore, D., Bian, J.  and Chen, Y.. (2020) Leverage real-world longitudinal data in large clinical research networks for Alzheimer’s disease and related dementia.  AMIA Annu Symp Proc. (in Press).
 
