@@ -55,7 +55,7 @@ Oral/Poster Presentations
 
 2. Duan, R., Chen Z., **Tong, J.**, Luo, C., Lyu, T., Tao, C., Maraganore, D., Bian, J. and Chen, Y.. (2020) Leverage real-world longitudinal data in large clinical research networks for Alzheimer’s disease and related dementia [Oral], AMIA 2020 Annual Symposium, virtual Nov 2020.
 
-3. Tong, J., Ren, B., Liu, Y., Moore, J., Xu, H. and Chen, Y. (2020) Xmeta-COVID19: A Comprehensive Web-based Toolbox for Meta-analysis on COVID19 Research [Oral], 2020 OHDSI, virtual Oct 2020. 
+3. **Tong, J.**, Ren, B., Liu, Y., Moore, J., Xu, H. and Chen, Y. (2020) Xmeta-COVID19: A Comprehensive Web-based Toolbox for Meta-analysis on COVID19 Research [Oral], 2020 OHDSI, virtual Oct 2020. 
 
 4. **Tong, J.**, Luo, C., Duan, R., and Chen, Y. (2020) Distributed Learning From EHR across Multiple Heterogenous Clinical Sites, 2020 Joint Statistical Meetings (JSM) [Oral], virtual July 2020.
 
