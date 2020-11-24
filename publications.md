@@ -40,11 +40,7 @@ Published/Accepted/Preprints
 
 17. Huang, J., Zhang, X., **Tong, J.**, Du, J., Duan, R., Yang, L., Moore, J.H., Chen, Y. and Tao, C. (2018). Comparing adverse effects of Hepatitis C drugs using FAERS data. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1653-1656). IEEE.
 
-Under revision/Under review
------------
-
-
-Working papers
+Under Revision/Under Review/In Preparation
 -----------
 
 
