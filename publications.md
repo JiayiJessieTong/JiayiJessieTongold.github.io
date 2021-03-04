@@ -47,21 +47,23 @@ Under Revision/Under Review/In Preparation
 Oral/Poster Presentations
 -----------
 
-1. **Tong, J.**, Chen, Z., Duan, R., Lo-Ciganic, W., Lyu, T., Tao, C., Merkel, P., Kranzler, H., Bian, J., Chen, Y.. (2020) Identifying Clinical Risk Factors of Opioid Use Disorder using a Distributed Algorithm to Combine Real-World Data from a Large Clinical Data Research Network [Oral], AMIA 2020 Annual Symposium, virtual Nov 2020.
+1. **Tong, J.**, Luo, C., Islam, M.N., Sheils, N., Buresh, J., Edmondson, M., Merkel, P.A., Lautenbach, E., Duan, R. and Chen, Y. (2021) Distributed Binary Regression of Electronic Health Records Data Across Heterogeneous Clinical Sites [Oral], Eastern North American Region (ENAR), virtual March 2021
 
-2. Duan, R., Chen Z., **Tong, J.**, Luo, C., Lyu, T., Tao, C., Maraganore, D., Bian, J. and Chen, Y.. (2020) Leverage real-world longitudinal data in large clinical research networks for Alzheimer’s disease and related dementia [Oral], AMIA 2020 Annual Symposium, virtual Nov 2020.
+2. **Tong, J.**, Chen, Z., Duan, R., Lo-Ciganic, W., Lyu, T., Tao, C., Merkel, P., Kranzler, H., Bian, J., Chen, Y.. (2020) Identifying Clinical Risk Factors of Opioid Use Disorder using a Distributed Algorithm to Combine Real-World Data from a Large Clinical Data Research Network [Oral], AMIA 2020 Annual Symposium, virtual Nov 2020.
 
-3. **Tong, J.**, Ren, B., Liu, Y., Moore, J., Xu, H. and Chen, Y. (2020) Xmeta-COVID19: A Comprehensive Web-based Toolbox for Meta-analysis on COVID19 Research [Oral], 2020 OHDSI, virtual Oct 2020. 
+3. Duan, R., Chen Z., **Tong, J.**, Luo, C., Lyu, T., Tao, C., Maraganore, D., Bian, J. and Chen, Y.. (2020) Leverage real-world longitudinal data in large clinical research networks for Alzheimer’s disease and related dementia [Oral], AMIA 2020 Annual Symposium, virtual Nov 2020.
 
-4. **Tong, J.**, Luo, C., Duan, R., and Chen, Y. (2020) Distributed Learning From EHR across Multiple Heterogenous Clinical Sites, 2020 Joint Statistical Meetings (JSM) [Oral], virtual July 2020.
+4. **Tong, J.**, Ren, B., Liu, Y., Moore, J., Xu, H. and Chen, Y. (2020) Xmeta-COVID19: A Comprehensive Web-based Toolbox for Meta-analysis on COVID19 Research [Oral], 2020 OHDSI, virtual Oct 2020. 
 
-5.  **Tong, J.**, Huang, J., Chubak, J., Wang, X., Hubbard, R., and Chen, Y. (2020) An Augmented Estimation Procedure for EHR-based Association Studies, Eastern North American Region (ENAR) [Oral], virtual March 2020.
+5. **Tong, J.**, Luo, C., Duan, R., and Chen, Y. (2020) Distributed Learning From EHR across Multiple Heterogenous Clinical Sites, 2020 Joint Statistical Meetings (JSM) [Oral], virtual July 2020.
 
-6. **Tong, J.**, Duan, R., Li, R., Scheuemie, M. J., Moore, J. H., and Chen, Y. (2020). Robust-ODAL: Learning from heterogeneous health systems without sharing patient-level data [Oral], Pacific Symposium on Biocomputing (PSB), Hawaii Jan 2020
+6.  **Tong, J.**, Huang, J., Chubak, J., Wang, X., Hubbard, R., and Chen, Y. (2020) An Augmented Estimation Procedure for EHR-based Association Studies, Eastern North American Region (ENAR) [Oral], virtual March 2020.
 
-7. **Tong, J.**, Li, R., Zhou, D., Duan, R., Moore, J., and Chen, Y. (2019) Improving the reproducibility of EHR-based association studies for pleiotropic effects by accounting for phenotyping errors [Oral], Eastern North American Region (ENAR), Philadelphia Oct 2019.
+7. **Tong, J.**, Duan, R., Li, R., Scheuemie, M. J., Moore, J. H., and Chen, Y. (2020). Robust-ODAL: Learning from heterogeneous health systems without sharing patient-level data [Oral], Pacific Symposium on Biocomputing (PSB), Hawaii Jan 2020
 
-8. **Tong, J.**, Huang, J., Du, J., Cai, Y., Tao, C. and Chen, Y. (2018) The Use of Likelihood Ratio Test to Identify Rare Adverse Events with Year-varying Reporting Rates for FLU4 Vaccine in VAERS [Oral], AMIA 2018 Annual Symposium, San Francisco Nov 2018.
+8. **Tong, J.**, Li, R., Zhou, D., Duan, R., Moore, J., and Chen, Y. (2019) Improving the reproducibility of EHR-based association studies for pleiotropic effects by accounting for phenotyping errors [Oral], Eastern North American Region (ENAR), Philadelphia Oct 2019.
 
-9. **Tong, J.**, Duan, R., Liu, Y., Hong, C., Chi, K., and Chen, Y. (2018) A Comprehensive Tool- box for Advanced Meta-analysis [Poster], 2018 DBEI & CCEB Research Day, University of Pennsylvania, Philadelphia April 2018.
+9. **Tong, J.**, Huang, J., Du, J., Cai, Y., Tao, C. and Chen, Y. (2018) The Use of Likelihood Ratio Test to Identify Rare Adverse Events with Year-varying Reporting Rates for FLU4 Vaccine in VAERS [Oral], AMIA 2018 Annual Symposium, San Francisco Nov 2018.
+
+10. **Tong, J.**, Duan, R., Liu, Y., Hong, C., Chi, K., and Chen, Y. (2018) A Comprehensive Tool- box for Advanced Meta-analysis [Poster], 2018 DBEI & CCEB Research Day, University of Pennsylvania, Philadelphia April 2018.
 
