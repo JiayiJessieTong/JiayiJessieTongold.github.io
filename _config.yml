@@ -3,6 +3,10 @@
 # Name of website
 title: J.T. Homepage
 
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+google_analytics: "G-GK9FM7Z4M7"
+
 
 # Short description of your site
 description: Welcome to J.T.'s website
